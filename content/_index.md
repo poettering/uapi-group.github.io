@@ -23,7 +23,11 @@ Contributing members include people from Ubuntu Core, Debian, GNOME OS, Fedora C
 systemd, image-builder/osbuild, mkosi, tpm2-software, System Transparency, buildstream, BTRFS, bootc, composefs, (rpm-)ostree,
 Microsoft, Amazon, and Meta.
 
-## Events and news
+## Events and News
+
+* 2026-10-29: New specification published: <br />
+  [UAPI.16 File Manifest](https://uapi-group.org/specifications/specs/file_manifest/), a JSON-SEQ based manifest format describing collections of files and GPT partitions,
+  including hashes, signatures and remote sources.
 
 * 2026-10-15: New specifications published: <br />
   [UAPI.18 CLI Introspection](https://uapi-group.org/specifications/specs/cli_introspection/) (experimental draft),
@@ -45,6 +49,9 @@ Microsoft, Amazon, and Meta.
   [UAPI.14 VMGenID](https://uapi-group.org/specifications/specs/vmgenid/), and
   [UAPI.15 OSC 3008: Hierarchical Context Signalling](https://uapi-group.org/specifications/specs/osc_context/).
 
+* 2025-11-19: New specification published: <br />
+  [UAPI.12 dlopen() Metadata for ELF Files](https://uapi-group.org/specifications/specs/elf_dlopen_metadata/), imported from systemd.io.
+
 * 2025-10-02: "Image-Based Linux Summit 2025" — Berlin, October 2nd. <br />
   [Minutes](https://uapi-group.org/conferences/minutes/2025-10-02__image-based-linux-summit/).
 
@@ -52,6 +59,9 @@ Microsoft, Amazon, and Meta.
   Head over to https://media.ccc.de/c/asg2025/asg2025-eng to check them out!
   See also the [schedule](https://cfp.all-systems-go.io/all-systems-go-2025/schedule/) and LWN's coverage:
   [A security model for systemd](https://lwn.net/Articles/1042888/).
+
+* 2025-06-18: New specification published: <br />
+  [UAPI.11 File Hierarchy for the Verification of OS Artifacts (VOA)](https://uapi-group.org/specifications/specs/file_hierarchy_for_the_verification_of_os_artifacts/).
 
 * 2024-09-25: "All Systems Go! 2024" — Berlin, September 25th–26th. <br />
   [Recordings](https://media.ccc.de/c/asg2024), [schedule](https://cfp.all-systems-go.io/all-systems-go-2024/schedule/).
@@ -67,6 +77,9 @@ Microsoft, Amazon, and Meta.
 * 2023-09-12: "Image-Based Linux Summit 2023" — Berlin, September 12th. <br />
   [Minutes](https://uapi-group.org/conferences/minutes/2023-09-12__image-based-linux-summit/),
   LWN: [The 2023 Image-Based Linux Summit](https://lwn.net/Articles/946526/).
+
+* 2023-03-23: New specification published: <br />
+  [UAPI.10 Version Format Specification](https://uapi-group.org/specifications/specs/version_format_specification/), split out of the Boot Loader Specification.
 
 * 2022-10-05: "Image-Based Linux Summit 2022" — Berlin, October 5th–6th. <br />
   The first summit, which led to the creation of the UAPI group.
